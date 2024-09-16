@@ -6,8 +6,6 @@ A collection of JavaScript challenges and exercises to improve your coding skill
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Installation
@@ -21,13 +19,18 @@ git clone https://github.com/Loloko1234/AdventOfJavaScript.git
 # Navigate to the project directory
 cd AdventOfJavaScript
 
+# Select project directory
+cd Advent-of-JavaScript-()
+
 # Install dependencies (if any)
 npm install
 ```
 
 Usage
 Instructions on how to use the project.
-
+```sh
+npm run dev
+```
 # Run the project
 
 ```sh
@@ -36,5 +39,4 @@ npm start
 
 Contact
 GitHub: Loloko1234
-
 Email: kowalczykmaciek220@gmail.com
