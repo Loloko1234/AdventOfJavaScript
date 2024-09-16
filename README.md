@@ -26,17 +26,13 @@ cd Advent-of-JavaScript-()
 npm install
 ```
 
-Usage
+## Usage
 Instructions on how to use the project.
 ```sh
 npm run dev
 ```
-# Run the project
-
-```sh
-npm start
-```
 
 Contact
 GitHub: Loloko1234
+
 Email: kowalczykmaciek220@gmail.com
